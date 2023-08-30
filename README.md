@@ -3,7 +3,7 @@ Classification toolbox for MATLAB
 --------------------------------------------
 The Classification toolbox for MATLAB is a collection of MATLAB modules for calculating classification (supervised pattern recognition) multivariate models: Discriminant Analysis, Partial Least Square Discriminant Analysis (PLSDA), Classification trees (CART), K-Nearest Neighbors (kNN), class modeling Potential Functions (Kernel Density Estimators), Support Vector Machines (SVM), Unequal class models (UNEQ), Soft Independent Modeling of Class Analogy (SIMCA), Random Forest (RF) and Backpropagation Neural Networks (BPNN).
 
-This is the version 6.0 of the Classification toolbox for MATLAB 
+This is the version 7.0 of the Classification toolbox for MATLAB 
 
 Classification toolbox for MATLAB has been released by Milano Chemometrics and QSAR research Group.
 Visit our website at www.michem.unimib.it
